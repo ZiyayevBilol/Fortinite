@@ -1,0 +1,76 @@
+.hero-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-section-content {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.hero-section-content img {
+  margin-top: 127px;
+  margin-bottom: 14px;
+}
+.hero-section-content p {
+  font-family: Orbitron;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+  margin-top: 127px;
+  margin-bottom: 14px;
+  max-width: 203px;
+  color: #0f57f3;
+}
+.hero-section-left h1 {
+  font-family: Orbitron;
+  font-size: 62px;
+  font-weight: 400;
+  line-height: 86px;
+  color: #ffff;
+  margin-bottom: 45px;
+  max-width: 660px;
+  text-align: left;
+}
+.hero-section-left p {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #999999;
+  max-width: 615px;
+}
+.hero-section-right img {
+  width: 100%;
+}
+.Contact {
+  display: flex;
+  gap: 40px;
+}
+.btn-2 {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #ffff;
+  background: #57b8ff;
+  border: none;
+  padding: 21px 34px 21px 34px;
+  margin-top: 53px;
+  cursor: pointer;
+}
+.btn-3 {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #ffff;
+  border: none;
+  background: transparent;
+  margin-top: 73px;
+  cursor: pointer;
+}

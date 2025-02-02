@@ -1,0 +1,55 @@
+.footer {
+  background-image: url(../images/footer/footer.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footer h2 {
+  font-family: Orbitron;
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 82px;
+  text-align: center;
+  color: #141820;
+  padding-top: 126px;
+  margin-bottom: 52px;
+}
+.footer-section-content p {
+  font-family: Orbitron;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: #555555;
+  margin-bottom: 50px;
+}
+.footer-section p {
+  font-family: Orbitron;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: #555555;
+}
+.input {
+  padding: 21px 226px 21px 13px;
+  border: none;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.input::placeholder {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: center;
+  color: #555555;
+}
+.btn-5 {
+  padding: 21px 8px 21px 8px;
+  border: none;
+  cursor: pointer;
+  background: #57b8ff;
+  align-items: center;
+  color: #ffff;
+}
