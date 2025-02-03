@@ -5,6 +5,9 @@
   .cloud-gaming-section {
     flex-wrap: wrap;
   }
+  #navbar-open {
+    display: block;
+  }
 }
 @media (max-width: 430px) {
   .home-section-right {
@@ -42,6 +45,9 @@
   }
   .hero-section-left p {
     text-align: center;
+  }
+  .btn {
+    display: none;
   }
 }
 @media (max-width: 1115px) {

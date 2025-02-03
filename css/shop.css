@@ -1,6 +1,9 @@
 .child {
   text-align: center;
 }
+.child img {
+  width: 100%;
+}
 .shop-section {
   display: flex;
   align-items: center;
@@ -15,7 +18,7 @@
   width: 100%;
 }
 .parent:hover .child {
-  margin-top: -550px;
+  margin-top: -580px;
   transition: all 1s;
 }
 .child h2 {
