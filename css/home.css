@@ -59,11 +59,10 @@ a {
   display: none;
 }
 #nav-open {
-  /* display: none; */
+  display: none;
 }
 
 #navbar-responsive {
-  background-color: red;
   position: fixed;
   top: 0;
   left: -100%;
@@ -74,12 +73,14 @@ a {
   align-items: center;
   width: 100%;
   transition: 0.5s;
+  backdrop-filter: blur(10px);
 }
 
 #navbar-close {
   position: absolute;
   top: 25px;
   right: 25px;
-  background-color: red;
   cursor: pointer;
+  border: none;
+  background: transparent;
 }
